@@ -1,0 +1,260 @@
+1.) d,k,é(kulcs),k(megiszod),k,d(külditárgy),ny(kijárat)
+ 
+
+2.) d,k,2é(kulcs),2d,2ny,2é,k(külditárgy),ny,2d,k,é(kijárat)
+ 
+
+3.) k(békén hagyod),2k,d,ny(külditárgy),é,3ny(kijárat)
+ 
+
+4.) d,2k,2é,3ny(kulcs),3k,2d,ny,é(kulcs),d,ny,é,ny,2d(külditárgy),2é,k(kijárat)
+ 
+
+5.) 3k,2é,3ny,d,k(külditárgy,kijárat)
+ 
+
+6.) k,é,3k,2é,2k,d,ny(kulcs),k,é,4ny(megeszed),d,k(külditárgy,kijárat)
+ 
+
+7.) 5é(kulcs),5d,2ny(kulcs),2k,4é,ny(1 érme),é(kulcs),d,k,4d,2k(külditárgy, kijárat)
+ 
+
+8.) ny,é,ny,4d(kulcs),4é,2k(külditárgy, kijárat)
+ 
+
+9.) 5d,5k(követ),5é,4ny,4d,3k,3é,2ny(kill),2d,k,é(külditárgy, kijárat)
+ 
+
+10.) é,4ny(ugrasz),d,3k(kulcs),3ny,é,4k,é,ny,é,3ny,é,k,2é,k(kulcs),ny,2d,3k(felfele hadonászol),3é,2ny(kulcs),2k,3d,4ny,2é(kulcs),2d,4k,3é,4ny(külditárgy, kijárat)
+ 
+
+11.) 7ny(lehajolsz),7é(kulcs),7d,8k,é,ny,4é,3ny,d,k,d,ny,d,k,d,2ny,6é(lehajolsz),ny,5d,ny,5é(kulcs),5d,k,5é,k,6d,2k,é,ny,é,k,é,ny,é,3k,3d,k(kulcs),2ny(kulcs),k,é,k(kulcs),2ny(kulcs),k,é,k(kulcs),ny,é,2ny,2é(kulcs),2d,2k,2é(térdelsz, külditárgy, kijárat)
+ 
+
+12.) 3ny,3é,ny(fuss),2d(kulcs),2é,k,3d,k,3d,k,d,2k,é,2k(továbbmész...),d(kulcs),é,2ny,d,2ny,é,3ny(továbbmész...),d,k(kulcs),ny,é,2k,3é,2k,3é,3k(faág, kulcs),5ny,2d(külditárgy),2é,2k,3d(kijárat)
+ 
+
+13.) é,ny,3é(segítesz),2ny,d(feszegesd),k,3d,2ny(kulcs),2k,3é,ny,é,6k,4d,ny(továbbmész...)3é(rugdosd),2ny,d(külditárgy),é,2k,3d,k,4é,4ny,3d,k,d(kijárat)
+ 
+
+14.) (szigorúan csak zombiknak!) k,é,ny,é,k,é,ny,é(lerántod),k,é,ny,é,k,é,ny,é,k,é,ny,é,k,é(ugorj),ny,é,k,é,ny,é,k,é,ny,é,k(továbbmész),k,k,d,ny,d,k,d,ny,d,k,d,ny,d,k,d,ny,d(megállsz),k,d,ny,d,k,d,ny,d,k,d,ny,d,k,d,ny,d,k(külditárgy, kijárat)
+ 
+
+15.) 3k(ugorj),4k,4é,2ny(kill),3ny,d(kill),2d,2k(kulcs),2ny,3é,5k,2d,2ny,d(kulcs),é,2k,2é,5ny,é,2ny(külditárgy),2k,d,5k,4d,7ny(kijárat)
+ 
+
+16.) 2é,3k,2é,ny,2é(kráterdoktor),2k,2d,ny,é,ny(kulcs),k,d,k,2é,3ny,2d,k,2d,7ny(séta),2d,3k,é,2ny(kulcs),2k,d,3ny,2é,k,2é,k,2é,3ny,2d,k,é,k(kulcs),ny,d,ny,2é,3k,2d,ny,2d,7k,2d,ny,4d,k,é(kulcs),d,ny,4é,k,2é,2ny,d(kulcs),é,6ny,2d,k,3d(hajolsz),d(külditárgy, kijárat)
+ 
+
+17.) 5ny(kulcs),3k,é,k,é,k,é(kulcs),ny,é,k,é,ny,é(vizsgáld),é(kulcs),2d,ny,d,ny,d(virág),4ny(kulcs),2k,é,k,é,k,2é(kulcs)2d,3ny(továbbmész...),ny(kulcs),2k,2é(kulcs),2d,k,d,ny,d,k,d,ny,d,2ny(külditárgy),5k,d,2k(kijárat)
+ 
+
+18.) 6k(önts rá vizet),4d,4ny(továbbmész...),2é,ny(kulcs),k,2d,k,2é,k(továbbmész...),é,ny(kulcs),k,d,2ny,3d,k,2d,ny,é(kulcs),d,k,2é,2ny,2d,3ny(külditárgy),3k,3é,3k,4é,6ny(kijárat)
+ 
+
+19.) k,3é(továbbmész...),5k,3d,4ny(lapulsz, kulcs),4k,3é,3ny,2é,ny,d(kulcs),é,4k,d,2ny(kulcs),2k,é,3ny,2é,ny,d(kulcs),é,k,4d,2ny,5é,4k,4d(követ),3k,3é,2ny,2d,k,é(külditárgy),d,ny,2é,2k,3d,3ny,4é,4k,8d,ny(kijárat)
+ 
+
+20.) 5k,3é,2ny,2d,k,é(kulcs),d,ny,2é,2k,3d,7ny,4é,ny,3é,ny,3d,ny,3é(kulcs),3d,k,3é,k,3d,k,2é,4k(szélsõ),2d,ny,2d(kulcs),2é,4k,3é(sunyítasz),2ny,d,k,ny(kulcs),k,é,ny,é,2k,3d,3ny,2é,3ny,d,k,d(kulcs),é,ny,é,ny,6d,3ny(kard),3é,2ny,2d(kulcs),2é,2ny,3d,3k,2é,k,é,k(kulcs),ny,d,ny,2d,2ny,2é(kulcs),2d,4k,2é(külditárgy),2d(kijárat)
+ 
+
+21.) 14k,12é(hasalsz),7ny,d,2ny,d,5ny,6d(kulcs),6é,5k,é,2k,é,5k,é,2k,é,ny,é,k,é,4ny(kill),d,k,d,ny,d,k(külditárgy, öngyilla,vagy),ny,é,k,é,ny,é,4k,d,ny,d,k,d,2ny,d,2k,12d,14ny(kijárat)
+ 
+
+22.) d,2k,é,2k,é,k,é,k,2é,k,2é,ny,2é,ny,é,ny,é(T),2ny,é(kulcs),d,2k,d,k,d,k,2d,k,2d,ny,é,ny,2d,ny,d,ny,d,4ny,é,ny,é,ny,é,2ny,2é(I),k,2é,k,é,k,é,2k,é,k(kulcs),ny,d,2ny,d,ny,d,ny,3d,k,2é,k,é,k,é,4k,d(O),k,d,k,d(kulcs),é,ny,é,ny,é,ny,é,3ny,2d,ny,d(R),ny,d(kulcs),é,k,é,k,2é,ny,d,ny,d,ny,2d,ny,3é,k,é,k,é,ny,é,2ny(U,kulcs),2k,d,k,d,ny,d,ny,3d,k,2é,k,é,k,é,4k,d,k,d,k,é,k,2d,k,2d,ny,2d,ny,d,ny,d,k,d(S),k(Z),k(kulcs),2ny,é,ny,é,k,é,k,2é,k,2é,ny,2é,ny,d,ny,é,ny,é,3ny,2d,ny,d,ny,d,2k,é,2k(mászol),2d,ny,é(külditárgy,kijárat)
+ 
+
+23.) 2k,d,ny,2d,ny,2é,ny,5d(fehér),k,d,2ny,3é,ny,2d,ny,2d,3k,d,3k,d(4.),d,3k,2é,k,é,2ny,3é,2k(hasalsz),5é,2ny,3d,k,d(külditárgy, kijárat)
+ 
+
+24.) d,k(kulcs),k,d,k,5é,2k,4é,ny(vársz),ny,2é(kulcs),2d,2ny,2d,2ny,2d(kulcs),2é,2k,2é,4k,2d,2k,é(húros),ny(kulcs),k,d,2ny,2é,4ny,2d,2ny,é,k(kulcs),ny,d,2k,2d,5k(támadj),é(kulcs),d,2ny,é,2ny,d,2ny(kulcs),3k(kulcs),ny,2é,k,é,2ny,d(külditárgy),é,2k,d,ny,4d,2ny(kijárat)
+ 
+
+25.) [kihagyható:5k,2d(pihensz),k,2d(kulcs),2é,ny,2é,3ny,4é(kulcs),4d,2ny,4d(fontos információ!!!),4é]2k,4d(zöld,keserû,kulcs),4é,3k,4é(gomb),ny,k,4d,4ny,4é(ribizli,kulcs),4d,2k,4d(kulcs),4é,3ny,4é(kulcs),4d,k,4d(kulcs),4é,4k,4d(pihensz, külditárgy),4é,5ny(kijárat)
+ 
+
+26.) é,2ny,é,2k,2é,3ny,d,2k(kulcs),2ny,é,6k,2d,ny,d(felveszed),ny,2é,k(kulcs),ny,2d,k,é,k,4é,2ny,é,3k(felnézel),é,2ny(kulcs),2k,d,5ny,d,2ny,d,ny(toporogsz),be,é,2ny,é,2k,2é,3k,2é,3ny,é,ny,d,2ny,d,2ny,3é,2k(kulcs),2ny,3d,k,4d,k,é(külditárgy, kijárat)
+ 
+
+27.) 2d(milka),d,ny(Lorden),ny,é(kulcs),d,4k,é(64),2é,ny,d(erdõ),d(kulcs),d,3k,é,ny(6),é,2k,3d,ny(4),7ny,é(3,4),2é,k,é,k,2d(kulcs),6k,2d,k(para),k,4é,ny,d(fertõzés),2d(kulcs),3é,3ny(Gyurgyó),é,3k(8),2é,ny(méh),ny,d,k(kulcs),ny,d,3ny(megvilágítás erõssége),2é,2ny(7),2ny,2d,2k,é(pillangós),ny(külditárgy, kijárat)
+ 
+
+28.) Kell atomantium tõr!!! d(továbbmész...),k,d,ny,2d,k,é,2k,d,2k,4é(ugrasz),ny,é,4ny(segítesz, kulcs),4k,d,5k,é,k(kulcs),ny,d,4ny,TÕRT KÉZBE!,é(külditárgy,kijárat)
+ 
+
+29.) 3d,2k,é,3k,3d(fegyverrel),2d,ny(kulcs),k,3d,12ny,8é,2k,2d(csiklandozd),be,3d,4ny,é,3k(kulcs,kijárat),be,3d,2k,é,3k,8d,12ny,8é,2k,3d,ny,é(kulcs),d,k,é,4k,3d,3ny(kulcs),3k,2é,k(fegyvereddel),d,k,d,k,d,2k,d,10ny(kuss),2é(kulcs),2d,10k,é,2ny,é,ny,é,ny,2é,4k(kulcs),4ny,2d,k,d,ny,d,5ny,2é,k,é,k,d,k(külditárgy),ny,é,ny,d,ny,2d,5k,é,k,é,ny,é,ny,é,4ny,2é(kijárat)[be,3d,2k,é,2k,d(antianyag bunkó),é(kijárat)]
+ 
+
+30.) Kell antianyag bunkó!!! d,k,2d,ny(kulcs),k,é,k,2d,2k,4é(kulcs),4d,k,2é,2k,é,k,d(j5b3),k,d,k,3é(kulcs),3d,ny,é,ny,é,ny,d,2ny,2d,3ny,2é,ny,5d,k,d,2k,é,k,2d,2k(leteríted),2k,é,k,é(nedves,meleg),é,ny,é(kulcs),d,k,2d,ny,d,4ny,2é,ny,d,2ny,é,ny,3d,ny(kulcs),d(nyártélõsztavasz),d,k,d,k(száraz,meleg),k,2é,k,d,2k,d,3k,é,2ny,é,k,BUNKÓ KÉZBE!!!,k(külditárgy,kijárat)
+ 
+
+31.) 2é,k,5d(követ),ny,2é,ny,4é,k(kulcs),ny,5d,k,d,2ny(kulcs),2k,2é,ny,4é,2k(kulcs),2ny,3d,3ny,3d,ny(fizess),2ny(kulcs),3k,3é,2ny,é(követ),ny,2é(külditárgy),2d,k,d,5k,2d,k,d,k,5é,ny,2d(kijárat)
+ 
+
+32.) d,k,2d,4k,d(szõröstalpú,kulcs),é,4ny,2é,4k,é(a másik,kulcs),d,4ny,2d,ny(várj),d,k(válaszolj,kulcs),ny,é,2k,3d,2k,3ny,é,ny,2d,k,2d,ny(mássz),é(kulcs),d,k,2é,k(továbbmész...),d(kulcs),é,k,2d,k,é(kulcs),d,4ny,d,4k(külditárgy, kijárrat)
+ 
+
+33.) [ehhez is nagyon fontos a bejárás...]7k,é,7ny(vársz),é,6k(továbbmész...),é,5ny(sorry...),é,4k(hagyod),é,3ny(hagyod),é,2k(mossebántod),é,ny,é(külditárgy, kijárat)
+ 
+
+34.) é,2k,é,2k,d,ny(Baba nyeb,kulcs),k,é,4ny(nyeba nyeda nyebba),é,ny,é,ny(nyed. nyeb.),4d,k,d,k(nyabba),k,d,2k(nyed),k,d(kulcs),é,3ny(kijárat),be,é,2k,é,2ny,é,2k,2é,k(nyeb,bebe),k,2d,ny,é(kulcs),d,k,2é,2ny,2d,3ny,é,k,é,k,d(kulcs),é,ny,d,2ny,4d,k,d,2k,d,2k,d,3ny,é,ny,d,ny,é(külditárgy),d,k,é,k,d,3k,é,2ny(kijárat)
+ 
+
+35.) 3é,2k(másik kéz!),2d,ny,é(kulcs),d,k,2é,4ny,2d,k,é(kulcs),d,ny,2é,5k,2d(kulcs),2é,3ny,é,5ny,2d,k,é(kulcs),d,ny,2é,10k,2d,ny,é(leghosszabb, kulcs),d,k,2é,7ny,3é,2ny,2d,k,é(kulcs),d,ny,2é,2k,3d,4k,3é,2k,2d,ny,é(ivarsejt, kulcs),d,k,2é,2ny,3d,2ny,é,k,3é,k(vársz),é,k,d(kulcs),é,ny,d,ny,3d,ny,4é,k,2é,2ny,2d(külditárgy),2é,2k,2d,ny,9d(kijárat)
+ 
+
+36.) 4ny,10é,10k,10d,4ny(közép,kulcs),ny,é,4ny,8é,8k,8d,3ny(en_ös,kulcs),ny,é,3ny,6é,6k,6d,2ny(szeál, kulcs),ny,é,ny,4é,4k,4d,ny(l_a_k, kulcs),ny,é,ny,2é,2k,2d(ép...,kulcs),ny,é(külditárgy),5d(kijárat)
+ 
+
+37.) 5é,2k,é,5ny(mellette),é,2k(5.,kulcs),2é(kulcs),2d,k,3é,2k,é,5ny,4é,2k,2d(kulcs),2é,2ny,4d,5k,d,2ny,3d,k,2é(kulcs),2d,4ny,d,5k,d,2ny,3d,ny,é(kulcs),d,k,3é,2k,é,5ny,é,3k,3é,2k,é,5ny,4é,3k,2d(kulcs),2é,3ny,4d,5k,d,2ny,3d,2ny,2é(kulcs),2d,ny,d,5k,d,2ny,3d,k,2é(elkéred, kulcs),2d,ny,2d,k(szúnyogszárny,légige),k(fénnyaláb,sárkányszív),é(lélek,managlória),ny(külditárgy),k,d,2ny(kijárat)
+ 
+
+38.) 3ny,d,ny,é(kulcs),d,3ny,2d(továbbmész...),2ny,5d(áss),3k(hajolj),2k(kulcs),5ny,2d,2k(kulcs),2ny,2é,3k,2d,3k,2é,k(kiemelkedés),é,k(kulcs),ny,d,2k,8é,2ny,d(kulcs),é,ny,d,4ny,2d,4k,2d,2ny,2d,2ny,3é,ny,d(kulcs,keresztvas),é,k,3d,2k,2é,2k,2é,4ny,2é,4k,é,3k(kijárat),GoTo Piac, vegyél 8 lélegzõ sarokkövet, meg egy hiperiumot, erõdben rakd össze (8l,1o,1h)(külditárgy)
+ 
+
+39.) é,2ny,2d,4k,2é(továbbmész...),k,2é,ny(kulcs),k,d,k,5é(továbbmész...),2ny,é,2ny,2é(kulcs),2d,3k,d,k,d,k,3d,k,2d(valamelyik,kulcs),5é,2ny,é,2ny,é,4ny,d,2ny,d,ny,3d,k,d,k,d,k,2é,k,3é,2k(tarts ki),3d,ny,2é(kulcs),2d,k,2d,3ny,2d,4k,2é,k,é,k,3é,2ny(kulcs),4k,5é,ny(külditárgy[,öngyilla]),k,4d,ny,é,ny,[é]2ny[d],2ny[é],d,ny[é],ny,d,ny,3d,k,d,k,d,3k,d(kijárat)
+ 
+
+40.) 2ny,é,3k,d,k(vársz),2k(kulcs),3ny,é,4k,2d,2ny,2d,2ny,4d(kulcs),6é(kulcs),2d,ny,é,2ny,é(kulcs),d,2k,d,k,d,2k(támadj!),2é(kucls),2d,4ny(add át magad),2ny(kulcs),3k,d,3ny,d,k,d,ny(külditárgy)[öngyilla],k,é,ny,é,3k,2é,2k,2é,2k,2é,7ny,d,2k(kijárat)
+ 
+
+41.) 3é(beszélsz vele),2é,ny,3é,ny,7d(válassz...),2d,3k,d,k(vágd el!),d,2ny,é,ny,d,ny,é,ny,2d,5k(rongy),k,12é(külditárgy, kijárat)
+ 
+
+42.) 5ny,d(kulcs),é,k,4d,k(letisztogatod),é(kulcs),d,4ny,é(+1kupac),2ny,é,ny(kulcs),k,d,2k,d,7k,4d,2ny(botolj),4ny,é,2k,2é(kulcs),2d,2ny,d,6k,é,ny(Legtöbbet),ny,2é(kulcs),2d,2k,d,2ny,d,ny(legtöbbet),5ny,é(legtöbbet),3é,ny,2d(külditárgy[,öngyilla]),2é,k,4d,6k,é,2k,8é(kijárat)
+ 
+
+43.) 4k,7é(fejére),ny(kulcs),k,6d,2ny(továbbmész...),2ny,é(fuss!),ny,4é(kulcs),4d,k,d,4k,2é,6k(kulcs),6ny,é,2ny,2é(5.),é,2ny(kulcs),2k,3d,2k,é,3k,é,2ny,é(kulcs),d,2k,d,3ny,5d,3k(kulcs),3ny,4é,2ny,4é,3k(4.),4k(kulcs),5ny,2é,k,é,k,2d,ny(külditárgy),k,2é,4ny,d,ny,6d,2k,4d,4ny(kijárat)
+ 
+
+44.) nincs kedvem most végigjárni, térképen meg nem látszik honnan nyílik az ajtó, szóval ezt a bejárást trubadúrról loptam:4D;2K;3E;2K;2E;2NY;1D;1K(bronzkulcs),1NY;1D;2NY;5D;2K;1D;3K(vaskulcs),1NY;1E;1K;2E;1NY;1E;2NY;2E;4NY;1E;1NY; 1E;2K;2E(rézkulcs),2D;1K;5D;2NY;2D;1NY;1D(csõkulcs),4E;1NY;1E;1NY;2E;1K;1E;1NY;1E;1NY; 1E(aranykulcs),1D;5K;1E;1NY(platina);2K(ezust),1NY;2D;1K;5D;2NY;2D;1NY;1E;1NY;2D;1NY(nem dobod! bepaszirozod a szajaba),1NY es külditargy, kijarat, kulcs<3.
+ 
+
+45.) ny,é,3ny,d(kulcs),é,3k,d,2ny,2d(bál nej),d,ny,d(kulcs),é,k,3é,k,5d,k,d,ny(kulcs),2d(dáma nejt),ny,é,ny(kulcs),k,d,k,2é,k,2é,k,2d,k,2d(lord megfuj),k,é,k(kulcs),ny,d,ny,2é,ny,2é,k,5é,k,3d(had bab agy),d,k,d(kulcs),é,ny,4é,2ny,2é,ny(külditárgy, kijárat),küldit leadod, otthon kék i gomb!!
+ 
+
+46.) 4k,é,4ny(kulcs),2k,é,2k,2é,3ny(kulcs),ny,2d,4k,2é,2ny,é,2ny,2é,3k(kulcs),k,2d,4ny,2é,2k,é,2k,2é,3ny(kulcs),ny,2d,4k,2é,2ny,é,2k,2é,3ny(kulcs),ny,2d,4k,2é,2ny,é,2k,2é,2ny,é,2ny,2é,5k,d,k,é(kulcs),2d(5),6d(Golliatt),2d(kulcs),9d(külditárgy, kijárat)
+ 
+
+47.) d(hajolj, gemma),d,2ny,d,k(kulcs),ny,d,k(gemma),ny,d,ny(kulcs,kijárat)be,2d,2ny,3d,k(igen, gemma),ny,d,ny(hé nyanya, gemma),k,d,ny(rézkulcs,kijárat),be,2d,3ny,é(álljon félre),é,k,é,ny(kulcs),k,d,ny,2d,5k,é,ny(-kulcs:( ),2é(gemma),d,k(életerõ),k,2é,3ny(platinakulcs, kulcs),2k,d(gemma),é,k,5d(toll),d(tál),d,2ny,é,ny(rubin gemma, gemma),k,é,ny(bõrt, gemma), k,2d,ny(alfa, kulcs),k,d,k(szombat, tál),k(visuddha, gemma),d,3ny(tapogatsz, kígyó),kijárart, összerakod  a kelyhet: 9 gemma 2 kígyó 2 tál. Be:2d,2k,é,ny,é,2k,5d,2ny,d,2k,d,3ny, KEHELY KÉZBE!!!!,é(külditárgy),ny(kijárrat)
+ 
+
+48.) 4d,2k,é,ny(kulcs),k,d,2ny,2é.2k,2é(kulcs),2d,5ny,d,k(szedd össze magad),k,d,3ny,é(kulcs),d,3k,é,2ny,2é,k,é,2ny,2d(kulcs),4k,2d,2k,2d(továbbmész...),ny,é,ny,2d(továbbmész...),2k,2d,3ny(oldalralépsz),2ny,2é,k,d(kulcs),é,ny,é,ny,[mágus:d,ny(válaszolsz),ny(válaszolsz),ny(kulcs)][harcos:2d,ny(válaszolsz),ny(válaszolsz),ny,é(kulcs)],2é(lapulsz),2é,k,é,ny,é,k,é,ny(kulcs),2k,4d,ny,d,k(külditárgy,kijárat)
+ 
+
+49.) ny(sok kulcs),2é,k,d,ny,d,k,d,k(-kulcs),é(rúgj bele! teleport!),d,k,d(jobbra),d,k,4é,ny,2é,3ny(kulcs),4k,3d,k(továbbmész... Teleport!),ny,é,k(külditárgy, kijárat)
+ 
+
+50.) Karókat elõször balról, aztán jobbról kerüld! k,3d(igen),4d,k(igen),[ny,é]vagy[2ny,é,3k(ülj le)],k(továbbmész...),é(húzd meg),d,3k(húzd meg),k(továbbmész...),d(27),2d(2+2),2é(27),é(továbbmész...),2ny,d(kulcs),2ny(ostor),é(továbbmész...),ny,3d,k(10k)(kulcsok),ny,é,k(sör),ny,d,k(1000),3k,d(rohanj),3d,ny(megnézed),k,é,2ny,2é,k(továbbmész...),d,k(külditárgy),é,2ny,2d,2ny(kijárat)
+ 
+
+51.) 9é(behelyezed),3d(behelyezed),4d,3ny(behelyezed),[ha szerencsés vagy 2é(bronzkulcs),2d],d(behelyezed),5ny(behelyezed,[ha okos vagy 2d(vaskulcs),2é],é(behelyezed),3ny,4é(behelyezed),[ha erõs vagy 2é(rézkulcs),2d],d(behelyezed),5é,k(behelyezed),[ha gyors vagy 2d(csõkulcs),2é],é(behelyezed),7k(továbbmész...),2k,8d,9ny,3é(pajszeres rablóelõkelõség),4é(továbbmész...),8k,6d,7ny,5é,k(behelyezed),[ha gondolod benézhetsz az ajtókon... amúgy meg]3d(behelyezed),3k(nekiesel),2k(bebugyolálod)(külditárgy, kijárat)
+ 
+
+52.) Legyen nálad 7-8 háló, + abrak.3k(megnyomod),4ny,é(megnyomod),[2,7,7,5,6,7,fal]vagy[6,7,fal],aztán[ha messze vagy 2d(háló),ny,2d(háló),d,k(háló),d]3k(beugró),é(háló),k,é(kulcs),é,ny,2é(amenemhebet),k,é(kulcsok),d,2ny(háló),é,3ny(kulcs),3k,d,k,2d,k,2d,ny,2d,k(csapd le),d(kulcs),é,ny,é,3ny,d,ny,d(nap)(pép),ny(ELKAPOD,kijárat)
+ 
+
+53.) Legyen nálad 2-3 háló, + abrak.é,4k(igen),5d(nem),k(nem),é,7k,4é(nem),ny,é,k,é,2k,6d,k,2d,ny(démonacél pusztító),(kisgöncöl),ny(nagygöncöl rúdja),é(kígyó),k(canopus),k(szûz)(ELKAPOD,kijárat)
+ 
+
+54.) Kérésre a válaszok törölve. Járjátok be a labit, rakjátok sorba a szövegrészeket (vagy csak olvassátok el LC-ben vagy LarkiLexikonban), és keressétek ki ctrl+f-el a helyesválaszt. Gyerünk! :) d,k,é(kulcs),d,k,é(-kulcs),2é,2ny,d,ny,2d,3ny,4é,3k,3é,3k,2é,3k,3d,ny,4d(kulcs),d(kidob),be,d,2k,3é,3ny(kidob),be,d,2k,3é,3ny,2é,2k(helyesválasz,kulcs),2ny,2d,2k,é,k(helyesválasz,kulcs),ny,d,2ny,2é,k,é(helyesválasz,kulcs),2d(helyesválasz,kulcs),2k,2é(helyesválasz,kulcs),d,2k,5d,2k,9é(külditárgy,kijárat)
+ 
+
+55.) é(fõmágus),2é(ugorj),k,é,2ny(kulcs),2k,3d,3ny,3é(ugorj),é,2ny,2é,ny,2d(kulcs),2é,k,2d,4k,2é(kulcs),3d,k,2é(kulcs),2d,ny,é,4ny,d,ny(kulcs),é,2k,é(-kulcs),k(-kulcs),é(-kulcs),é,2k(kulcs),5ny(kulcs),3k,é(-kulcs),2k(válassz:D)é(kulcs),d,2ny,d, ny,d(kulcs),é,k,é,ny,é,3ny(türelem),Menj be ahova tudsz, a hulyegullyéknél meg a kérdés elején szereplõ számot vond ki 5-bõl, és azt a gombot nyomd meg. Külditárgy, kijárat.
+
+ 
+
+56.) é(kulcs),é(megpróbálod),2é(kulcs),2d,ny,2d,2ny(felrúgod),3ny,2é(kulcsok),3k,é,3ny,2é(béke),é,5k,é,3ny,é(és fél),4k,2é(páratlan),3é,3ny,d(20),ny,é,2ny,3d,k,d(mosolyogj),ny,d,k,d,ny(külditárgy,kijárat)
+ 
+
+57.) ny(doboz),ny(kredenc),2ny,5é,3k,4d,k(kötél),d(vaskulcs),é,ny,é,ny,d(doboz),(5.),é,ny,2d,ny,é(doboz),(továbbmész...),2k,d,2ny(doboz),(kulcsok),é(macskajelmez),(nem),é(nem),k,2d,2ny,é(külditárgy),d,2k,2é(kijárat)
+ 
+
+58.) 3é,2ny,d,k,2d(kulcs),2é,ny,3é(kulcs),d,3k(-kulcs),3k(kaparsz),d,2ny(odamész),ny(vaskulcs),3k,2d,3ny,d,ny(kulcs),2d(kulcs),2é,4k(kulcs),2d(kulcs),é,2ny(ugorj),(nincs idõd),k(kapaszkodsz),3é,3ny,3d,2k,2é(nevet mentsd le!),ny,d(próbáld meg),3k(fejeld le),2d,2k,2é(mentsd le ezt is),ny,d(kapaszkodj),(összerakott isten neve),k(kapirgálsz),k(dönts),(tûze fáklyát, vagy vízre fújj),2k(külditárgy,kijárat)
+ 
+
+59.) 9é,2ny(3),2k,3d,ny,2é,2ny,é,ny(kulcs),k,d,2k,6d,ny,d,3ny,d,2ny,é,k,2é,ny,é,k,é,ny,é,k(1),ny,d,k,d,ny,d,k,d,2ny,d,ny,é(földszint,kulcs),é(kulcs),2d,k,d,3k,é,k,d,k,é,k,é,k,3é(külditárgy),3d,ny,d,ny,d,3k(kijárat)
+
+9E; 2NY teleport a 3.-ik szintre
+2K; 3D; 1NY; 2E; 2NY; 1E; 1NY(aranykulcs)
+1K; 1D; 2K; 6D; 1NY; 1D; 3NY; 1D; 2NY; 1E;
+1K; 2E; 1NY; 1E; 1K; 1E; 1NY; 1E; 1K teleport az elsõ szintre.
+1NY; 1D; 1K; 1D; 1NY; 1D; 1K; 1D; 2NY;
+1D; 1NY; 1E teleport a földszintre(ezüstkulcs) 1E(varázskulcs)
+2D; 1K; 1D; 3K; 1E; 1K; 1D; 1K; 1E; 1K; 1E; 1K; 3E (külditárgy)  
+
+60.) ny(bronz),k,é(csõ),d,k(vas),ny,d,2ny,3é(varázs),3k,d,k,2d,ny,d,ny,d(-varázs),2d(réz,platina),ny(-csõ),2d,k(csõ),2k,d,k(arany),é(-vas),ny,é(-platina),2é,ny,é,ny,d,2ny(vas),2d(platina),2d,2k,d(-vas),d(-arany),d,ny,3d(vas),3k(-platina),2k(varázs),k,é,k,2é(platina),ny,é(arany),d,k,d,k(-vas),k(-bronz),k(-csõ),é(-arany),k,é(csõ),8é(arany),d,ny,4d(-arany),2ny,3é,k,2é,k,é,k,3é,2ny,3d(bronz,vas),é,ny(arany),k,2é,ny,d,ny,2d,k,d,k,d,ny(-arany),ny(-réz),ny,5é,k(arany),ny,5d,k,2d,k,d,2k,2d,k,3d,ny,d,ny,d,2k(-varázs),d(ezüst,réz),2ny,é,2ny,d,8ny,4é,2k,4é,k,2é,2k,6é,k(csákány - vedd is kézbe!),2ny(-ezüst,külditárgy),k(kijárat)
+ 
+A bejárattól É-ra, K-re és Ny-ra szedd össze a 3 kulcsot.
+
+A bejárattól d, ny, ny, é, é, é(varázskulcs),
+k, k, k, d, k, d, d, ny, d, ny, d, d, d (bronz, vas, réz, cso, platina),
+ny, d, d, k(cso), k, k, d, k(arany), é, ny, é, é, é, ny, é, ny,
+d, ny, ny(vas), d, d (platina), d, d, k, k, d, d, d, ny, d, d, d(vas),
+k, k, k, k, k(varázs), k, é, k, é, é(platina), ny, é(arany),
+d, k, d, k, k, k, é, k, é (cso), é, é, é, é, é, é, é, é(arany), d, ny,
+d, d, d, d, ny, ny, é, é, é, k, é, é, k, é, k, é, é, é,
+ny, ny, d, d, d(bronz,vas), é, ny (arany), k, é, é, ny, d, ny, d,
+d, k, d, k, d, ny, ny, ny, é, é, é, é, é, k(arany), ny, d, d,
+d, d, d, k, d, d, k, d, k, k, d, d, k, d, d, d, ny, d, ny, d, k, k, d(ezüst,réz)
+ny, ny, é, ny, ny, d, ny, ny, ny, ny, ny, ny, ny, ny, é, é, é, é,
+k, k, é, é, é, é, k, é, é, k, k, é koppanásig.
+Most dobd el a törpe csákány(oka)t, ami nálad van.
+Ha kettö van, mindet! Jobb, a törpénél van a Spécicsákány.
+Ezt vedd a kezedbe, bal, bal, Szuperpáncélos.
+Csak a Spéci Törpecsákány sebzi. 
+
+
+61.) Legyen nálad 50 gyémánt, 2 madártoll, 1 teknõspáncél, 1 sárkányfû, 1 dadacsiganyál, 1 sejtmag, 1 lábszárcsont, 1 koponya, 1 hiperzsír, 1 20000 éves kenyér. Be:d(megvesztegeted),d,k,é(Kézbe madártoll, testen teknõspáncél==>belépsz),é,k,3d(kiabálsz),ny(kulcs),ny(fejre koponya, lábra csont==>utolsó,kulcs),2d(pálinkát, zsíroskenyérrel,külditárgy),2k(kijárat)
+ 
+
+62. a) HA nálad maradt a csodacsákány a 60. küldibõl: 1.) csákány=vedd kézbe a kérdésre a válasz erejéig, mert lehet hogy páncélost ad. 2.) vigyél 4-5 hálót, abrakot és RÉZVÉRTET!! Bármi vértet, ami rézbõl van. be: 2d,k,d(csákány),k,3d,2ny,3é(beszélj),ny(beszélj),d(beszélj,kulcs),k,2d,2k,3é,k,d,[mágus: d,ny,2é,k,é,2ny,5é,k,2d(kulcs)/harcos: k,d,ny,2d,ny,4d(kulcs)],2é,2ny,é,3ny(csákány),d(csákány),2d(csákány),2ny,2é,ny,d,ny,3é,k(csákány),d,k,2é,k,é,k(csákány),d(csákány),VEDD fel a REZET,k(elkapod),ny,é,ny,d,ny,2d,ny,é,2ny,d(kijárat)
+
+    b) HA nem (mágus): Legyen nálad 4-5 háló, abrak, és valamilyen rézcucc. Mármilyen rézvért. Pocokhólyag sem árt, de a nappajzsot ne daráld le. 2*(vagy akár 3*)[2d,k,d(semmit),k,3d,2ny,3é(beszélj),ny(beszélj),d(beszélj,kulcs),k,2d,2k,3é,k,d,d(kulcs),ny,2é,k,4é,3d,k,2é,5d,3é,3ny,5é,k,2d(kulcs),2d,é(annyi),4é,ny,3d,3ny,2d,ny,é,d,ny,2é,2d,ny,é,ny,é,2ny,d,ny,2k,ny,2é,ny,3é,d,k,2d,ny,é,ny,2d,k,ny,4d,2é,4k,ny,d,2ny,2d,ny,k,2é,2k,d(kulcs),k,d,2ny,é,d,2k,2é,3k,d(faragvány mögött),k,é,k,é,2ny,2é,3ny,2d,3ny,é,2ny,é,ny,é,ny,4d,3k,2d,k,é,3k,d,2ny,d,é,2k,d,ny,5k,ny,é,2ny,é,d,k,é,k,é(ki)],rakj össze 21 átokvédõ pajzsocskát (mert az menõ),be,2d,2ny,3d,2ny,2é,ny,d,ny,3é,k,d(le),k,é(le),é,k,é,k,d(ja), Rezet vedd fel!,k(elkapod),ny,é,ny,d,ny,2d,ny,é,2ny,d(kijárat).
+
+    c) HA nem (harcos): Legyen nálad 4-5 háló, abrak, és valamilyen rézcucc. Mármilyen rézvért. Pocokhólyag sem árt, de a nappajzsot ne daráld le. 2*(vagy akár 3*)[2d,k,d(semmit),k,3d,2ny,3é(beszélj),ny(beszélj),d(beszélj,kulcs),k,2d,2k,3é,k,d,k(kulcs),d,3ny,k,é,d,k,3d,é,k,é,3d,ny,d,é,k,2é,2ny,4d(kulcs),2d(annyi),4é,ny,3d,3ny,2d,ny,é,d,ny,2é,2d,ny,é,ny,é,2ny,d,ny,2k,ny,2é,ny,3é,d,k,2d,ny,2é,ny,2é,k,ny,é,2k,2ny,3é,2k,2d,ny,é,d,k,é,k,é,k,ny,d,k(kulcs),k,d,2ny,d,é,2k,2é,4k,d(faragvány mögött),é,k,2d,ny,2d,ny,3d,3ny,2d,3ny,é,2ny,é,ny,2é,ny,6é,2k,d,3k,é,4k,d,3ny,3k,d,ny,2k,2d,é,2k,2ny,é,ny,é,2k,é,3k(ki)],rakj össze 21 átokvédõ pajzsocskát (mert az menõ),be,2d,2ny,3d,2ny,2é,ny,d,ny,3é,k,d(le),k,é(le),é,k,é,k,d(ja), Rezet vedd fel!,k(elkapod),ny,é,ny,d,ny,2d,ny,é,2ny,d(kijárat).
+Megjegyzés: érdemes +5 átokeszenciát összeszedni, mert itt könnyebb mint a következõ küldiben :) És lehet hogy amikor a parsziboszihoz teleportálsz, akkor a harcos/mágus leírás közül a másikat kell nézni, abban nem vagyok biztos hogy az úgy jó.
+
+1. rész
+Pocokhólyag 30000-re
+1.1 Menjünk el középre a vaskulcsért, beszéljünk a három öreggel (vaskulcs, 1 nappajzs).
+1.2 Vasajtó, teleport a délkeleti sarokba, a futó kalandnál platinakulcs.
+A délkeleti sarokban irtsuk ki a boszikat és a lovagokat, a platinaajtó mögött is
+(található összesen 5 átokesszencia, 3 nappajzs) labiból ki, lepakol.
+1.3 Vasajtó mögé ismét (tolvajkulcs). Vissza a nagyterembe, tolvajajtó mögé be.
+Irtsuk ki a boszikat és a lovagokat, a nyugati platinaajtó mögött is, a délnyugati skivei bosziig
+(összesen 5 átokesszencia, 6 nappajzs). Eddig van 10 átokesszencia, 10 nappajzs.
+2. rész
+2.1 Ugyanezt végig még egyszer, eddig van 20-20 átokesszencia és nappajzs.
+2.2 Piacon vegyünk 21 varázsfogpiszkálót, kovácsoljuk meg a 20 pajzsot.
+Hajas Zolónál vegyünk egy rézsisakot, a vegyesboltban hálót, abrakot.
+3. rész
+Labiba be, irány nyugatra egyenesen a foszörnyhöz
+(a bejárattól 2D, 2Ny, 3D, 2Ny, 2É, Ny, D, Ny, 3É, K, D, K, 2É, K, É, K, D).
+Itt rézcuccba öltözni (elég egy sisak vagy páncél), K, elkapni.
+Kijárat a 6x3 mezon lévo pallosharcosnál. 
+ 
+
+63.) LEGYEN NÁLAD!: 12 tûzige, 3-4 háló, + abrak. Ha nem maradt az elõzõ küldibõl átokeszenciád: 5*{é(igen),3é,teleport,d(felemeled,átokeszencia),k(kijárat),mész,újra felveszed a küldit.} http://larkilexikon.webatu.com/egyeb-targyak/Palimadar alapján összeraksz 5 Palimadarat. Be:é(igen),3é,teleport,d(levágod),3é,ny,2é,k,d,k,é,k,2d(de amint tudsz menj nyugatra!),ny,2d,k,d(tucat tûzige)(ELKAPOD! kijárat)
+ 
+
+64.) d,ny,2é,k,é,3k,2é(gyorsan),2k,2d(kulcs),2é,2ny,2d,3ny,d,ny,2d,2k(erõ),d,k,d,2ny,d,k(kulcs),ny,é,2k,é,ny,é,2ny,2é,k,2é(erõ),ny,é,ny(ügyesen),é,2ny,d(kulcs),é,2k,d,k,d,k,2d,ny,3d,ny,d,2ny(szerencsére),é(kulcs),d,2k,é,k,3é,k,é,3k,2é,k,é,2ny(kulcs),2k,d,ny,2d,3ny,d,ny,2d,2k,d,k,é,k,d,k,2d,ny(gyorsan),ny(kulcs),2k,2é,ny,é,ny,d,ny,é,2ny,2é,k,é,3k,é,ny,é,ny(kulcs),k,d,k,d,3ny,d,ny,2d,2k,d,k,é,k,2é,k(okosan),d,k,é(kulcs),d,ny,é,ny,2d,ny,d,ny,é,2ny,2é,k,2é,4ny,d(ügyesen),d(döntöd),d(külditárgy),3é,4k,2d,ny,2d,k,é(kijárat)
+ 
+
+65. a) HA tudsz szerezni varázskulcsot: elvállalod a küldit, megszerzed a kulcsot (pl. 1 kreditért), fejedre/lábadra teszed. Be:6é(köszöntsd),ny,é,ny,8d,(ha nem, akkor közben megkeresed a teleportot, és varázsajtóig dél),3ny,é,k,é,2ny,é,3k,2é,k,é,k,2é,2ny(cuccok,kijárat). Mágustorony: 1 óriás igazgyöngy + 1 tökéletlen manafejpánt + 5 varázspikkely = külditárgy.
+
+    b) HA nem (mágus): 6é(köszöntsd),ny,é,ny,8d,(vagy közben megkeresed a teleportot és kopp dél),3ny,é,k,é,2ny,é,3k,2é,ny,é,ny,é,2k,d,é,2ny,d,k,d,2k,é,k,2é,k(atomtõr kézbe!),d(kulcs),é,ny,2d,ny,d,2ny,é,ny,é,ny(nyelv),d,ny,6é,5k,2d(kulcs),2é,2ny,4é,3ny,é,d,3k,é,3k(elhoztam, de nem kapod meg!,cuccok,kijárat). Mágustorony: 1 óriás igazgyöngy + 1 tökéletlen manafejpánt + 5 varázspikkely = külditárgy.
+
+    c) HA nem (harcos): 6é(köszöntsd),ny,é,ny[3d,ny,é,d,k,d(teleport)/2d,ny,é,ny,k,d,ny(teleport)/2d,ny,é,d,k,d,ny(teleport)/4d,ny,k,é,ny(teleport)/3d,k,é,d,ny,d(teleport)/2d,ny,d,ny,2k(teleport)/5d,2é,ny(teleport)],4d,k,2ny,d,é,3ny,é(lehajolsz),2k,é,2ny,é,3k,é,ny,k,é,ny,é,ny,é,2k,d,é,2ny,d,k,d,2k,é,k,2é,k(atomtõr kézbe!),d(kulcs),é,ny,2d,ny,d,2ny,é,ny,é,ny(nyelv),d,ny,6é,5k,2d,2é,2ny,4é,3ny,é,d,3k,é,3k(itt vannak)(Kihasználod az alkalmat, fejpánt, kijárat) Mágustorony: 1 óriás igazgyöngy + 1 tökéletlen manafejpánt + 5 varázspikkely = külditárgy.
+ 
+
+66.) 7k(kulcs),5ny,2é,[IQ:2ny,d(felírod),é,2k][harcosnak:2k,d,2k(felírod),2ny,é,2ny)],2d,9k,7d,k(kulcs),ny,d,ny,d,é,4ny(kíméletesen),é(amit felírtál, az),3é,3ny,3d,k(kulcs),ny,3é,7k,2d(kulcs),2é(aranyat a kézbe!),3é,3ny,d,2ny,é(mehet vissza kézbe a fegyver),é(ja, mert az elõbb nem sikerüt :D),k(külditárgy,kijárat)
+Megjegyzés: Inkább nézd meg a térképet és amelyik tulajdonságod a legnagyobb abba a blokkba menj a jelszóért.
+ 
+
+67. a) HA tudsz szerezni varázskulcsot: elvállalod a küldit, megszerzed a kulcsot (pl. 1 kreditért), aztán irány be: k(bronz,varázs),d,k,d(vas),k,é,k,3d,3k,d,2k,é,ny(réz),d,ny,d,k,d,2k,é,k(ezüst),é,ny(kijárat)be,d(arany,kijárat),be,k,d,4k,é,ny(vas),k,4d,k,4d,2k,3d,ny,3d,ny,d(platina),ny,d,ny,3é(csõ),2d,6k,d(külditárgy,kijárat)
+
+    b) HA nem, akkor kitartás, mert ezt nem úszod meg 500 kattal: k(bronz,varázs),d,k,d(vas),k,é(-varázs),k,3d,2k(-vas),k,d,2k,é,ny(réz),2k,é,2k,é,ny,é,k,é,2ny,d,2ny(-bronz),2d,ny,3é,3ny(vas),k,3d,k,3d,2k,d,2k,é(-réz),k(ezüst),é,k,é,k,d,k,d,k,2é,4k,2é,4ny,é,k,é,2ny(-vas),2d,ny,d(réz),d,ny,4d,k,é,4k,d(bronz),3é,k,d,k,2d,ny,d,2ny,é,2ny,2d,2k(-ezüst),d,2k,d,k,3é(csõ),d,3ny,d,ny,d,2k,d,2k,3d(-réz),ny,2d(-csõ),k,d,3ny(vas),k,2é(-bronz),2é,k(arany),ny,d,2ny,2é,k,é,2ny,2é,ny,2d(platina),4é,2ny,2é(ezüst),d,ny,d,ny(-vas),d(-arany),k,d,2k,d(bronz),3ny,é,2ny,é,k,2é,ny,d,ny(-ezüst),2é,ny(-platina),2é,ny,d,ny,d,ny,2é,ny(réz),k,é(-bronz),é,2ny,2é(arany),5d,k,2d,ny,3d,k(vas),2d,k,d,2ny,d,k,2d,ny,2d,k,é,2k(-arany),3k,é(ezüst),2d,2k,é,k,d,k,2é,ny,2é,2ny,d,2ny,é,k(platina),é,2k,é(-vas),2ny,é,2ny(-ezüst),d(csõ),3d,2ny,é,k,4é,ny,é(-platina),é,ny(-réz),é,3k,d,k,d,ny,d(bronz),é,3k,d,k,d,k,d,k,d(arany),é,2k,d,ny(vas),3k,d,2ny,d,k(-arany),d,2k,2d,3ny(-csõ),é,ny,é(-vas),é,ny(külditárgy,kijárat).
+ 
+
+68.) 3k(igazábólcsak2),3é,2k,d,ny(kulcs),4d,2ny,é,2ny,2d,k,d,2k,é,ny(kulcs),2ny,2d,4k,6é,k,3d,k,é,k,2d,2ny,d,3k,é,k,é,ny,2é,2ny,é(kulcs),k,é,3ny,2d,ny,3é,3ny(kulcs),d(gömb),k,é,10k,d,2ny,3d,k,é,k,é,ny(gömb),ny,2d,k,2d,k,2é(kulcs),é,ny,3d,k,5d,2ny,é,ny,é,2k(gömb),2d,ny,é,ny,2é,ny,d,3ny,2d,3k,é,2ny(kulcs),ny,d,4k(gömb),k,é,ny,2é,ny,d,2ny,é(gömb),ny,5é,ny,3é,8k,d,2ny,3d,k,2d,k,5d,2ny,é,ny,2é,ny,d,7ny,2d,k,é(gömb),d,2k,é(gömb,kijárat)

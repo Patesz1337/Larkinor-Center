@@ -1,0 +1,50 @@
+<html>
+<body bgcolor="black"><font color="#00FF00">
+<style>td{color:#00FF00;}</style>
+<title>Fegyverszakértelem</title>
+<br>
+A fegyverszakértelem a harcosok jellemzõje. Ez is meghatározza (a szint mellett), hogy milyen fegyvereket tud használni egy harcos. Mindig a szint és a fegyverszakértelem közül a kisebbik dönti el, hogy hanyas szintû fegyvert használhat egy adott karakter sebzéslevonás nélkül. A maximum elérhetõ fegyverszakértelem az ügyesség függvénye. A szinthez képest minden egyes + fegyverszaki 1-gyel növeli a sebzést.
+<br>
+<br>
+A fegyverszakértelmet harcban tudjuk növelni a fegyver használatával. A maximálisan elérhetõ fegyverszakértelem az ügyesség másfélszerese (100. szint felett az ügyesség 3-szorosa). 3 fajta fegyver és ezeknek megfelelõ fegyverszakértelem létezik:
+<br>
+<ul>
+    <li>ütõ/zúzó<br>
+	<li>szúró/vágó<br>
+    <li>távolsági<br>
+</ul>
+<br>
+Az adott fegyverszakit a megfelelõ fegyverek használatával növelhetjük. A nagyobb sebzés nagyobb szakinövekedést eredményez. Tehát alacsonyabb védelmû szörnyek ölésekor jobban fejlõdik (persze azok kevesebb TP-t is adnak), megfigyelhetõ, hogy az arénázó íjász szakértelme jobban nõ, mint a seregezõ íjászé(más harcos kasztoknál nem ennyire szembetûnõ a különbség). A nagyobb fegyverszaki pedig jobb sebzést ad. Ez a jelenség egy ördögi kört eredményez: nagyobb sebzés -> nagyobb fegyverszaki -> nagyobb sebzés -> és így tovább.
+<br>
+<br>
+De a fegyverszakértelmet növelhetjük az erõdben is pénzért, viszont itt csak az ügyesség 1,2-szereséig fejleszthetõ a szakértelem, de nem érheti el a karakter szintjét! Tehát egy 60-as szintû karakter 50(vagy több) ügyességgel nem fejleszthetné fel a szakértelmét a 60. szintre az erõdben gyakorolva
+<br>
+<br>
+<tr><td>Tapasztalati szint: 14</td><td>Ügyesség: 1 >>> 5</td><td>Ütõ-zúzó  fegyverszaki: 2 ( 22350 %) >>> 3 ( 13433 %) >>> 4 ( 8206 %)	>>>	5 ( 5085 %)	>>>	6 ( 3640 %)	>>>	7 ( 2594 %)	>>>	8 ( 1801 %)</td></tr>
+<table border="1" cellpadding="7">
+<tr><td>Tapasztalati szint: 14</td><td>Ügyesség: 1 >>> 5</td><td>Távolsági fegyverszaki: 2 ( 16437 %) >>> 3 ( 9919 %) >>> 4 ( 6016 %) >>> 5 ( 3695 %) >>> 6 ( 2614 %) >>> 7 ( 1853 %) >>> 8 ( 1275 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 15</td><td>Ügyesség: 5 >>> 8</td><td>Ütõ-zúzó  fegyverszaki: 8 ( 2346 %) >>> 9 ( 1378 %) >>> 10 ( 904 %) >>> 11 ( 577 %) >>> 12 ( 356 %)</td></tr>
+<tr><td>Tapasztalati szint: 15</td><td>Ügyesség: 5 >>> 8</td><td>Távolsági fegyverszaki: 8 ( 1850 %) >>> 9 ( 1070 %) >>> 10 ( 683 %) >>> 11 ( 421 %) >>> 12 ( 242 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 16</td><td>Ügyesség: 8 >>> 11</td><td>Ütõ-zúzó  fegyverszaki: 12 ( 562 %) >>> 13 ( 375 %) >>> 14 ( 204 %) >>> 15 ( 89 %)</td></tr>
+<tr><td>Tapasztalati szint: 16</td><td>Ügyesség: 8 >>> 11</td><td>Távolsági fegyverszaki: 12 ( 380 %) >>> 13 ( 226 %) >>> 14 ( 95 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 20</td><td>Ügyesség: 12 >>> 14</td><td>Ütõ-zúzó  fegyverszaki: 18 ( 167 %) >>> 19 ( 53 %)</td></tr>
+<tr><td>Tapasztalati szint: 20</td><td>Ügyesség: 12 >>> 14</td><td>Távolsági fegyverszaki: 18 ( 191 %) >>> 19 ( 74 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 24</td><td>Ügyesség: 15 >>> 16</td><td>Ütõ-zúzó  fegyverszaki: 23 ( 329 %) >>> 24 ( 202 %)</td></tr>
+<tr><td>Tapasztalati szint: 24</td><td>Ügyesség: 15 >>> 16</td><td>Távolsági fegyverszaki: 23 ( 508 %) >>> 24 ( 359 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 24</td><td>Ügyesség: 16 >>> 17</td><td>Ütõ-zúzó  fegyverszaki: 24 ( 360 %) >>> 25 ( 202 %) >>> 26 ( 99 %)</td></tr>
+<tr><td>Tapasztalati szint: 24</td><td>Ügyesség: 16 >>> 17</td><td>Távolsági fegyverszaki: 24 ( 409 %) >>> 25 ( 240 %) >>> 26 ( 137 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 26</td><td>Ügyesség: 17 >>> 18</td><td>Ütõ-zúzó  fegyverszaki: 26 ( 248 %) >>> 27 ( 138 %)</td></tr>
+<tr><td>Tapasztalati szint: 26</td><td>Ügyesség: 17 >>> 18</td><td>Távolsági fegyverszaki: 26 ( 326 %) >>> 27 ( 211 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 27</td><td>Ügyesség: 18 >>> 19</td><td>Ütõ-zúzó  fegyverszaki: 27 ( 389 %) >>> 28 ( 254 %) >>> 29 ( 137 %)</td></tr>
+<tr><td>Tapasztalati szint: 27</td><td>Ügyesség: 18 >>> 19</td><td>Távolsági fegyverszaki: 27 ( 311 %) >>> 28 ( 185 %) >>> 29 ( 76 %)</td></tr>
+<td></td><td></td><td></td>
+<tr><td>Tapasztalati szint: 28</td><td>Ügyesség: 19 >>> 20</td><td>Ütõ-zúzó  fegyverszaki: 29 ( 250 %) >>> 30 ( 139 %)</td></tr>
+<tr><td>Tapasztalati szint: 28</td><td>Ügyesség: 19 >>> 20</td><td>Távolsági fegyverszaki: 29 ( 107 %) >>> 30 ( 7 %)</td></tr>
+</table>

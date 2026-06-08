@@ -1,0 +1,213 @@
+
+<!DOCTYPE html>
+<html><head>
+        <title>Rablaskonventer!</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <body bgcolor="darkorange">
+    </head>
+    <body>
+        <textarea style="width: 718px; height: 493px;" id="textArea">
+
+
+
+</textarea>
+        <br>
+        <button onclick="Main()">Konvertalas</button>
+		<button onClick="window.location.href=window.location.href">Refresh Page</button>
+		
+<script type="text/javascript">
+var text = ''; 
+var csapda1 = ''; 
+var csapda2 = ''; 
+var csapda3 = ''; 
+var lako = ''; 
+var tp = ''; 
+var cucc = ''; 
+var megerzes = ''; 
+var gyemantszeg = ''; 
+var result = '';
+var temp = '';
+var temp_text = new Array();
+
+function Main(){
+    text = document.getElementById("textArea").value;
+    var index = 0;
+    var prevIndex;
+    temp_text = text.split("\n\n");
+    for (var i=0;i<temp_text.length;i++){
+        text = temp_text[i];
+        kiiras();
+    }
+}
+
+function kiiras()
+{
+    for(var i = 1 ; i < 4; i++){if (text.match(/\([0-9]+\)/)) CsapdaSzovegAllito(i);else break;}
+    if(text.match(/cuccokat tömöd/)) Cucc();
+    if(text.match(/földön megcsillan/)) GySzeg();
+    if(text.match(/lakik itt/)) Victim();
+    if(text.match(/tapasztalati pontot kaptál/)) Tp();
+    if(text.match(/Megérzésed jutalma/)) Megerzes();
+    if(csapda1){
+        result+=csapda1;
+        result+="\n";
+    }
+    if(csapda2){
+        result+=csapda2;
+        result+="\n";
+    }
+    if(csapda3){
+        result+=csapda3;
+        result+="\n";
+    }
+    if(lako){
+        result+=lako;
+        result+="\n";
+    }
+    if(tp){
+        result+=tp;
+        result+="\n";
+    }
+    if(gyemantszeg){
+        result+=gyemantszeg;
+        result+="\n";
+    }
+    if(cucc){
+        result+=cucc;
+        result+="\n";
+    }
+    if(megerzes){
+        result+=megerzes;
+        result+="\n";
+    }
+    result+="\n";
+    document.getElementById("textArea").value = result;
+}
+
+function CsapdaSzovegAllito(hovamentsem)
+{
+	var csapda = '';
+	var nyito = 0;
+	var csuko = 0;
+	var tmp = '';
+
+	for(var i = 0; i < text.length; i++)
+	{
+		if(text[i] == '(')nyito = i + 1;
+		if(text[i] == ')')csuko = i - 1;
+		if(nyito && csuko) break;
+	}
+	
+	tmp = text.substring(0,csuko + 1);
+	if(tmp.match(/zombi/)) csapda = 'zombi' ;
+	if(tmp.match(/manadémon/)) csapda = 'manadémon' ;
+	if(tmp.match(/zuhanórács/)) csapda = 'zuhanórács' ;
+	if(tmp.match(/pengegép/)) csapda = 'pengegép' ;
+	if(tmp.match(/tövisek/)) csapda = 'tüskeköpő' ;
+	if(tmp.match(/hurokzár/)) csapda = 'hurokzár' ;
+	
+	
+	csapda += '(';
+	for(var i = nyito; i < (csuko + 1); i++){csapda += text[i];}
+	csapda += ')';
+	
+	
+	switch(hovamentsem)
+	{
+		case 1: csapda1 = csapda; break;
+		case 2: csapda2 = csapda; break;
+		case 3: csapda3 = csapda; break;
+	}
+	
+	text = text.substring(csuko + 2);
+	return;
+}
+
+
+function Cucc()
+{
+	cucc = 'hátizsákodba: ';
+	var start = text.indexOf('cuccokat tömöd gyorsan hátizsákodba:') + 35;
+	
+	for(var i = 0; i < 3000; i++)
+	{
+		if(text[start+i] == '.') {break;}
+		cucc += text[start+i];
+	}	
+}
+
+
+function GySzeg()
+{
+	var start = (text.indexOf(' darab gyémántszeg')-1);
+        var i=0;
+        var gy="";
+        var temp = "";
+        
+        while(text[start-i] !== ' '){
+            gy+=text[start-i];
+            i++;
+        }
+
+        if(gy.length>1){
+            temp+=gy[1];
+            temp+=gy[0];
+        } else {
+            temp = gy;
+        }
+        
+        gyemantszeg = temp+" darab gyémántszeg!";
+
+}
+
+
+function Victim()
+{
+	var start = (text.indexOf('kiderül, hogy')+14);
+	var end = (text.indexOf('lakik itt')-1);
+	lako = text.substring(start,end);
+        lako+=" lakik itt!";
+	
+}
+
+
+function Tp()
+{
+	var end = text.indexOf('tapasztalati pontot kaptál') - 2;
+	var start = end + 1;
+	
+	for(var i = 0; i < 21; i++)
+	{
+		if( text[end-i] == '.' || text[end-i] == '!' ){
+                    start=end-i;
+                    break;
+                }
+	}
+
+        tp = text.substring(start+2,end+1);
+	tp += ' tapasztalati pontot kaptál!';
+}
+
+function Megerzes()
+{
+	megerzes = 'Megérzésed jutalma ';
+	var start = text.indexOf('Megérzésed jutalma') + 18;
+	
+	for(var i = 0; i < 100; i++) 
+	{
+		if(text[start+i] == '.') {break;}
+		megerzes += text[start+i];
+	}	
+}
+
+function IsThisCharacterNumber(c)
+{
+	for (var i = 0 ; i < 10; i++)
+	{
+		if (c == i.toString()) return true;
+	}
+	return false;
+}
+</script>   
+</body>
+</html>
